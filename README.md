@@ -1,6 +1,6 @@
 # Doom mods toolchain
 
-A nodejs tool to help ease the doom modding workflow.
+A nodejs tool to ease the doom modding workflow.
 
 It does two things:
 - package a directory to a .pk3 file
