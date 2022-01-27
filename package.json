@@ -1,0 +1,11 @@
+{
+  "name": "@gcholette/doom-mods-toolchain",
+  "version": "0.0.1",
+  "description": "Build and execute doom mods using node. Helps with packaging a folder to .pk3 and loading multiple mods (wads and pk3s). Intended to make the modding workflow a bit faster.",
+  "main": "index.js",
+  "author": "Gabriel Cholette-Rioux",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.0"
+  }
+}

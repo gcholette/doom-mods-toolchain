@@ -1,0 +1,5 @@
+node_modules/*
+**/**.pk3
+**/**.wad
+**/**.zip
+package-lock.json
