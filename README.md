@@ -2,7 +2,9 @@
 
 A nodejs tool to help ease the doom modding workflow.
 
-It does two things, package a directory to a .pk3 file, and execute GZdoom with different mod files.
+It does two things:
+- package a directory to a .pk3 file
+- execute GZdoom with different mod files.
 
 ## Example
 
