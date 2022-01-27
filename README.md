@@ -7,6 +7,8 @@ It does two things, package a directory to a .pk3 file, and execute GZdoom with 
 ## Example
 
 ```javascript
+const DoomModsToolchain = require('doom-mods-toolchain')
+
 const config = {
   // The path of the mod directory to compile
   modPath: 'C:\\Users\\Me\\workspace\\doom-mods\\src\\mods\\mod1\\',
